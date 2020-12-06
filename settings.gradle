@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "custum_sell_prodect"
